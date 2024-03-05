@@ -1,1 +1,27 @@
 
+[
+  {
+    "id": 1,
+    "firstname": "Liyan",
+    "lastname": "Khan",
+    "email": "liyan@gmail.com",
+    "phone": "1234567890",
+    "password": "Liyan=123"
+  },
+  {
+    "id": 2,
+    "firstname": "Daniah",
+    "lastname": "Zain",
+    "email": "daniah@gmail.com",
+    "phone": "987654321",
+    "password": "Dania=123"
+  },
+  {
+    "id": 3,
+    "firstname": "Gassan",
+    "lastname": "Hamad",
+    "email": "gassan@gmail.com",
+    "phone": "9876432245",
+    "password": "Gassan=123"
+  }
+]
